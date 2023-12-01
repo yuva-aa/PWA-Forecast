@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/yuva-aa/PWA-Forecast.git/static/css/main.cecaf4ea.css",
+    "main.js": "/yuva-aa/PWA-Forecast.git/static/js/main.982cb1b4.js",
+    "static/media/pexels-johannes-plenio-1118873.jpg": "/yuva-aa/PWA-Forecast.git/static/media/pexels-johannes-plenio-1118873.428112a29f0f80d0c2ec.jpg",
+    "index.html": "/yuva-aa/PWA-Forecast.git/index.html",
+    "main.cecaf4ea.css.map": "/yuva-aa/PWA-Forecast.git/static/css/main.cecaf4ea.css.map",
+    "main.982cb1b4.js.map": "/yuva-aa/PWA-Forecast.git/static/js/main.982cb1b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cecaf4ea.css",
+    "static/js/main.982cb1b4.js"
+  ]
+}
