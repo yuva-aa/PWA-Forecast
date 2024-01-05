@@ -1,5 +1,3 @@
-PWA-Forecast
-
 The Weather Forecast Progressive Web Application built with React delivers a user-friendly experience for accessing weather information. It utilizes React components to organize the app structure, integrates a weather API for real-time data, and employs state management for dynamic content. Responsive design ensures compatibility across devices, while Progressive Web App features like service workers enable offline functionality. The application also includes routing for seamless navigation, testing for reliability. Accessibility, analytics, and monitoring contribute to a comprehensive and user-centric weather forecasting solution.
 
 https://yuvaa-pwa.netlify.app/
